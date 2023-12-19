@@ -1,0 +1,5 @@
+# HUGO BLOG
+
+```
+hugo server
+```
